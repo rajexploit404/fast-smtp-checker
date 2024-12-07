@@ -121,7 +121,7 @@ if __name__ == "__main__":
 
     if smtp_list:
         threads = []
-        thread_count = 30
+        thread_count = 100
 
         for _ in range(thread_count):
             t = threading.Thread(target=worker, args=(smtp_list, recipient))
