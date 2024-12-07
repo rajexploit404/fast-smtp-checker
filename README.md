@@ -1,7 +1,4 @@
-Here's a `README.md` for your GitHub repository, which includes the basic description, installation instructions, usage, and example format for the `smtp.txt` list.
-
-```markdown
-# Fast SMTP Checker
+# Fast SMTP Checker Coded By Rajexploit404
 
 A simple, fast, and efficient Python-based SMTP checker to test multiple SMTP servers for connectivity and functionality. Coded by **RajExploit404**.
 
@@ -91,7 +88,3 @@ Enter the recipient email: receive@gmail.com
 
 - **[+] Successfully sent from...**: Indicates the email was successfully sent from the specified SMTP server.
 - **[-] Failed to send from...**: Indicates a failure in sending the email from the SMTP server.
-
-
-
-
